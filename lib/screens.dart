@@ -1,0 +1,11 @@
+export 'screens/main_layout.dart';
+export 'screens/home/home_page.dart';
+export 'screens/surah/surah_screen.dart';
+export 'screens/adhkar/adhkar_page.dart';
+export 'screens/radio/radio_page.dart';
+export 'screens/video/video_page.dart';
+export 'screens/prayers/prayers_page.dart';
+export 'screens/more/more_page.dart';
+export 'screens/quran/quran_page.dart';
+export 'screens/qibla/qibla_page.dart';
+export 'screens/settings/settings_page.dart';
